@@ -1,0 +1,30 @@
+# A Simple Regression
+
+What is the relationship between salary and years of experience? This Data and code are pulled from https://www.superdatascience.com/pages/machine-learning. This is apart of the Machine Learning A-Z course on Udemy. I did make some charts in Google Data Studio. It consists of key stats from the data such as: Average, Standard Deviation, Maximum, Minimum. 
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+I'm using Python Version 3.
+
+
+### Installing
+
+I used this code in Google colaboratory. Go here: https://colab.research.google.com/notebooks/intro.ipynb#recent=true to learn how to use it. You will have to upload the data either from your machine or by uploading the data into your google drive account.
+
+
+
+## Built With
+
+* sklearn
+* pandas
+* numpy
+* matplotlib
+* python
+
+## Acknowledgments
+
+* https://www.superdatascience.com/pages/machine-learning
